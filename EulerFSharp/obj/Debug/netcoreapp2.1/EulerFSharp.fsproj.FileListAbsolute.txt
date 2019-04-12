@@ -1,0 +1,10 @@
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\bin\Debug\netcoreapp2.1\EulerFSharp.deps.json
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\bin\Debug\netcoreapp2.1\EulerFSharp.runtimeconfig.json
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\bin\Debug\netcoreapp2.1\EulerFSharp.runtimeconfig.dev.json
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\bin\Debug\netcoreapp2.1\EulerFSharp.dll
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\bin\Debug\netcoreapp2.1\EulerFSharp.pdb
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\obj\Debug\netcoreapp2.1\EulerFSharp.fsprojAssemblyReference.cache
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\obj\Debug\netcoreapp2.1\EulerFSharp.AssemblyInfoInputs.cache
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\obj\Debug\netcoreapp2.1\EulerFSharp.AssemblyInfo.fs
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\obj\Debug\netcoreapp2.1\EulerFSharp.dll
+C:\Users\sigurd\source\repos\EulerProject\EulerFSharp\obj\Debug\netcoreapp2.1\EulerFSharp.pdb
