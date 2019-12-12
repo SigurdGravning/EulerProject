@@ -1,8 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EulerProject
 {
@@ -10,7 +6,7 @@ namespace EulerProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(EvenFibonacci.Sum());
+            Console.WriteLine(LargestPalindrome.FindLargest());
             Console.ReadKey();
         }
     }

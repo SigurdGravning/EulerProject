@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="3and5.cs" />
     <Compile Include="EvenFibonacci.cs" />
+    <Compile Include="LargestPalindrome.cs" />
+    <Compile Include="LargestProduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

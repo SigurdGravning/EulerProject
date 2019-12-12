@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="LargesProduct.fs" />
     <Compile Include="EvenFibonacci.fs" />
     <Compile Include="3and5s.fs" />
     <Compile Include="Program.fs" />
